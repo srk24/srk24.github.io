@@ -1,6 +1,6 @@
 # Site settings
-title: Srk24 Blog
-SEOTitle: Srk24 Blog
+title: Srk24
+SEOTitle: Srk24
 header-img: img/home-bg.jpg
 # email: srk24@gmail.com
 description: ""
@@ -101,9 +101,9 @@ page-mathjax: false
 
 
 # Friends
-friends: [
-    # {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # }
-]
+# friends: [
+#     {
+#         title: "Su",
+#         href: "http://su.gallery/"
+#     }
+# ]
